@@ -1,8 +1,8 @@
 # Hi 👋, I'm Juan Castro
 
-## 🚀 Ingeniería Industrial | Máster en Inteligencia Artificial
+## 🚀  Industrial Engineering | Master's Degree in Artificial Intelligence
 
-Soy un ingeniero industrial con formación en inteligencia artificial, especializado en análisis de datos, machine learning y optimización de procesos. Mi enfoque combina la IA con la ingeniería para mejorar la toma de decisiones y la eficiencia operativa.
+I am an industrial engineer with a background in artificial intelligence, specializing in data analysis, machine learning, and process optimization. My approach combines AI with engineering to improve decision-making and operational efficiency.
 
 ---
 
@@ -42,11 +42,6 @@ Soy un ingeniero industrial con formación en inteligencia artificial, especiali
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=python&logoColor=white)  
 
----
-
-## 🏆 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanMC0307&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMC0307&layout=compact&theme=radical)  
 
 ---
 
